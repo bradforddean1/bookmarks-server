@@ -1,5 +1,4 @@
 const express = require("express");
-
 const bookmarksRouter = require("../src/bookmarks/bookmarks-router");
 let store = require("../src/store");
 
